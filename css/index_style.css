@@ -1,0 +1,28 @@
+.label_style{
+color:black ;
+font-weight: 600;
+
+}
+.product{
+    position: relative;
+}
+.price{
+    position: absolute;
+    top:0;
+    right: 40px;
+    background-color: yellow;
+}
+#description{
+    color:red;
+}
+
+.alert_nameShow{
+    display: none;
+}
+
+.alert_priceShow{
+    display: none;
+}
+.alert_categroyShow{
+    display: none;
+}
